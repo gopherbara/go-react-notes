@@ -1,0 +1,26 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  width: 500px;
+  height: 100px;
+  margin: 30px auto;
+  background-color: #fff;
+  box-shadow: 5px 10px 10px #ccc;
+  border-radius: 10px;
+  padding: 10px 20px;
+  display:inline;
+  flex: 0 1 auto;
+}
+
+list {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+}
+
+
+
