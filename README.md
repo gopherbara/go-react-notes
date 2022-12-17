@@ -5,6 +5,6 @@ No use of databases, just test how react work with golang -> everything is simpl
 
 
 ## Usings
-https://github.com/gofiber/fiber/v2 - for initializing routes.
+https://github.com/gofiber/fiber - for initializing routes.
 
 react vite - for UI
